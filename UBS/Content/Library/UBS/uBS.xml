@@ -47,8 +47,8 @@
       <annotation>c310bdbc-b8da-4be4-a835-9918dbc3122f.1a1a237e-920f-4f83-9cb2-4b5f3dde20a6.description</annotation>
       <name>Local Ping</name>
       <bounds>
-        <x>315.0</x>
-        <y>139.0</y>
+        <x>180.0</x>
+        <y>103.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
